@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Closet {
     ArrayList<Storage> storage = new ArrayList<>();
 
-    public void addToDrawer(Storage clothes) {
+    public void add(Storage clothes) {
         this.storage.add(clothes);
     }
 
