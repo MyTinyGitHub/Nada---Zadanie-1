@@ -1,6 +1,6 @@
 package Clothes;
 
-import Clothes.TypesOfClothing.Closetable;
-import Clothes.TypesOfClothing.Drawerable;
+import Storage.TypesOfStorage.Closetable;
+import Storage.TypesOfStorage.Drawerable;
 
 public class Underwear implements Closetable, Drawerable {}

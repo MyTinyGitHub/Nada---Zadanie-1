@@ -1,6 +1,6 @@
-package Furniture;
+package Storage;
 
-import Clothes.TypesOfClothing.Closetable;
+import Storage.TypesOfStorage.Closetable;
 
 import java.util.ArrayList;
 

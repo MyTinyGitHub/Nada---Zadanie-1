@@ -1,8 +1,5 @@
-package Furniture;
+package Storage;
 
-import Clothes.TypesOfClothing.Drawerable;
-
-import java.sql.Array;
 import java.util.ArrayList;
 
 public class Closet {

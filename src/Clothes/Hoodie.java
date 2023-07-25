@@ -1,6 +1,6 @@
 package Clothes;
 
-import Clothes.TypesOfClothing.Closetable;
-import Clothes.TypesOfClothing.Rackable;
+import Storage.TypesOfStorage.Closetable;
+import Storage.TypesOfStorage.Rackable;
 
 public class Hoodie implements Rackable, Closetable {}

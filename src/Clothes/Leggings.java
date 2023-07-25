@@ -1,5 +1,5 @@
 package Clothes;
 
-import Clothes.TypesOfClothing.Closetable;
+import Storage.TypesOfStorage.Closetable;
 
 public class Leggings implements Closetable {}

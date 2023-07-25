@@ -1,6 +1,6 @@
-package Furniture;
+package Storage;
 
-import Clothes.TypesOfClothing.Rackable;
+import Storage.TypesOfStorage.Rackable;
 
 import java.util.ArrayList;
 

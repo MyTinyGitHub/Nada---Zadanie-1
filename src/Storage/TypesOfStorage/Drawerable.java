@@ -1,4 +1,4 @@
-package Clothes.TypesOfClothing;
+package Storage.TypesOfStorage;
 
 public interface Drawerable {
 }
