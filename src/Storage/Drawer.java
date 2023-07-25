@@ -4,7 +4,7 @@ import Storage.TypesOfStorage.Drawerable;
 
 import java.util.ArrayList;
 
-public class Drawer {
+public class Drawer implements Storage {
     private ArrayList<Drawerable> clothes = new ArrayList();;
 
     public void add(Drawerable clothing) {
